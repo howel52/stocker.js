@@ -1,6 +1,8 @@
 # Stocker.js
 > node / terminal 下的股票基金价格查询工具
 
+![npm (tag)](https://img.shields.io/npm/v/stocker.js/latest?style=flat-square)
+
 ## Feature
 - [x] 通过编号获取某个股票、大盘、基金、指数的最新信息
 - [x] 支持 terminal 命令查询, 支持 CJS
