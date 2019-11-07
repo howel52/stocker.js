@@ -1,6 +1,6 @@
 {
   "name": "stocker.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/Stocker.js",
   "author": "wuhao.52@outlook.com",
   "scripts": {
