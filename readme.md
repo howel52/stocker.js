@@ -11,6 +11,7 @@
 ## Usage
 ### Terminal
 > npm install -g stocker.js
+>
 > stocker -s SH000001,SZ399006
 
 ![demo](https://i.loli.net/2019/08/01/5d42e4a19304e57323.gif)
